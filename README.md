@@ -1,7 +1,4 @@
-### Hi Soy Jonathan Ibarrola 👋
-
-<!--
-**joni2000/joni2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Holaa Soy Jonathan Ibarrola 👋
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
