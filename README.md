@@ -2,7 +2,7 @@
 
 
 <div align = "center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/joni2000">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=joni2000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joni2000&layout=compact&langs_count=7&theme=algolia" />
 </div>
@@ -13,6 +13,7 @@
   <img align="center" alt="Joni-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Joni-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Joni-Js" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img  align="center" alt="Joni-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 </div>
   
    ##
